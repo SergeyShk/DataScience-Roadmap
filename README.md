@@ -7,7 +7,7 @@ My roadmap to study Data Science
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **Completed** |
-| [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) | Data Analyst with Python | *In Progress* |
+| [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) | Data Analyst with Python | **Completed** |
 | [Stepik](https://stepik.org/course/67) | Программирование на Python | **Completed** |
 | [Udemy](https://www.udemy.com/complete-python-bootcamp/) | Complete Python Bootcamp: Go from zero to hero in Python 3 | **Completed** |
 #### Books
@@ -38,6 +38,10 @@ My roadmap to study Data Science
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | *In Progress* |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python | To Do |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Python и машинное обучение | Себастьян Рашка | To Do |
 
 ### Deep Learning
 ### Reinforcement Learning

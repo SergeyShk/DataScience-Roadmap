@@ -41,9 +41,15 @@ My roadmap to study Data Science
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| Data Science. Наука о данных с нуля | Джоэл Грас | *In Progress* |
 | Python и машинное обучение | Себастьян Рашка | To Do |
+| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания интеллектуальных систем | Орельен Жерон | To Do |
 
 ### Deep Learning
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | To Do |
 ### Reinforcement Learning
 
 ## Mathematics
@@ -63,6 +69,6 @@ My roadmap to study Data Science
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Голая статистика. Самая интересная книга о самой скучной науке | Чарльз Уилан | **Completed** |
-| Как лгать при помощи статистики | Дарелл Хафф | *In Progress* |
+| Как лгать при помощи статистики | Дарелл Хафф | **Completed** |
 
 ### Calculus

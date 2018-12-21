@@ -34,18 +34,23 @@ My roadmap to study Data Science
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | *In Progress* |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | *In Progress* |
-| [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | *In Progress* |
+| [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | *In Progress* |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python | To Do |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Data Science. Наука о данных с нуля | Джоэл Грас | *In Progress* |
-| Python и машинное обучение | Себастьян Рашка | To Do |
+| Data Science. Наука о данных с нуля | Джоэл Грас | **Completed** |
+| Python и машинное обучение | Себастьян Рашка | *In Progress* |
 | Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания интеллектуальных систем | Орельен Жерон | To Do |
 
 ### Deep Learning
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | To Do |
+| [The School of AI](https://www.theschool.ai/courses/move-37-course/) | Move 37 Course | To Do |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |

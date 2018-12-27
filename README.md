@@ -31,7 +31,7 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | *In Progress* |
+| [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | *In Progress* |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | **Completed** |

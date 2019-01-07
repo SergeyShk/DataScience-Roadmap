@@ -1,5 +1,10 @@
-# DataScience-Roadmap
-My roadmap to study Data Science
+# DataScience Roadmap
+
+<p align="center"> 
+<img src="https://cdn-images-1.medium.com/max/1200/1*E1haIGB9K4K89PsFZgm-pw.jpeg" width="600">
+</p>
+
+My roadmap for study Data Science
 
 ## Programming
 ### Python
@@ -33,7 +38,7 @@ My roadmap to study Data Science
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | To Do |
-| [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | *In Progress* |
+| [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | **Completed** |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | **Completed** |

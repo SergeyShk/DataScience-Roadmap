@@ -47,7 +47,7 @@ My roadmap for study Data Science
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Data Science. Наука о данных с нуля | Джоэл Грас | **Completed** |
-| Python и машинное обучение | Себастьян Рашка | *In Progress* |
+| Python и машинное обучение | Себастьян Рашка | **Completed** |
 | Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания интеллектуальных систем | Орельен Жерон | To Do |
 
 ### Deep Learning

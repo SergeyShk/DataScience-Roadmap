@@ -21,15 +21,6 @@ My roadmap for study Data Science
 | Учим Python, делая крутые игры | Эл Свейгарт | **Completed** |
 
 ### Algorithms & Data Structures
-### SQL
-### Big Data
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
-| [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
-| [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
-| [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
 
 ## Machine Learning
 ### Fundamentals
@@ -48,7 +39,7 @@ My roadmap for study Data Science
 | --- | :---: | :---: |
 | Data Science. Наука о данных с нуля | Джоэл Грас | **Completed** |
 | Python и машинное обучение | Себастьян Рашка | **Completed** |
-| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания интеллектуальных систем | Орельен Жерон | To Do |
+| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания интеллектуальных систем | Орельен Жерон | *In Progress* |
 
 ### Deep Learning
 #### Courses
@@ -56,11 +47,23 @@ My roadmap for study Data Science
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | To Do |
 | [The School of AI](https://www.theschool.ai/courses/move-37-course/) | Move 37 Course | To Do |
+| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | *In Progress* |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | To Do |
 ### Reinforcement Learning
+
+## Data Engineering
+### SQL
+### Big Data
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
+| [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
+| [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
+| [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
 
 ## Mathematics
 ### Linear Algebra & Discrete mathematics 

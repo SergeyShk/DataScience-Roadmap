@@ -20,6 +20,7 @@ My roadmap for study Data Science
 | --- | :---: | :---: |
 | Учим Python, делая крутые игры | Эл Свейгарт | **Completed** |
 
+### R
 ### Algorithms & Data Structures
 
 ## Machine Learning
@@ -39,7 +40,7 @@ My roadmap for study Data Science
 | --- | :---: | :---: |
 | Data Science. Наука о данных с нуля | Джоэл Грас | **Completed** |
 | Python и машинное обучение | Себастьян Рашка | **Completed** |
-| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow. Концепции, инструменты и техники для создания интеллектуальных систем | Орельен Жерон | *In Progress* |
+| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow | Орельен Жерон | *In Progress* |
 
 ### Deep Learning
 #### Courses
@@ -78,6 +79,7 @@ My roadmap for study Data Science
 | [Stepik](https://stepik.org/course/76/) | Основы статистики | **Completed** |
 | [Stepik](https://stepik.org/course/524/) | Основы статистики. Часть 2 | To Do |
 | [Stepik](https://stepik.org/course/2152/) | Основы статистики. Часть 3 | To Do |
+| [Stepik](https://stepik.org/course/3089/) | Теория вероятностей | *In Progress* |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |

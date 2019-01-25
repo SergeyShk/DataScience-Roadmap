@@ -22,6 +22,14 @@ My roadmap for study Data Science
 
 ### R
 ### Algorithms & Data Structures
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | To Do |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Грокаем алгоритмы | Адитья Бхаргава | To Do |
 
 ## Machine Learning
 ### Fundamentals
@@ -52,6 +60,7 @@ My roadmap for study Data Science
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| Глубокое обучение на Python | Франсуа Шолле | To Do |
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | To Do |
 ### Reinforcement Learning
 

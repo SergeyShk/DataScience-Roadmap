@@ -25,11 +25,11 @@ My roadmap for study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | To Do |
+| [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | *In Progress* |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Грокаем алгоритмы | Адитья Бхаргава | To Do |
+| Грокаем алгоритмы | Адитья Бхаргава | *In Progress* |
 
 ## Machine Learning
 ### Fundamentals
@@ -48,7 +48,7 @@ My roadmap for study Data Science
 | --- | :---: | :---: |
 | Data Science. Наука о данных с нуля | Джоэл Грас | **Completed** |
 | Python и машинное обучение | Себастьян Рашка | **Completed** |
-| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow | Орельен Жерон | *In Progress* |
+| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow | Орельен Жерон | **Completed** |
 
 ### Deep Learning
 #### Courses
@@ -56,7 +56,7 @@ My roadmap for study Data Science
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | To Do |
 | [The School of AI](https://www.theschool.ai/courses/move-37-course/) | Move 37 Course | To Do |
-| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | *In Progress* |
+| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |

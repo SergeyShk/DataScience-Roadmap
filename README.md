@@ -25,11 +25,12 @@ My roadmap for study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Stepik](https://stepik.org/course/217) | Алгоритмы: теория и практика. Методы | *In Progress* |
 | [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | *In Progress* |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Грокаем алгоритмы | Адитья Бхаргава | *In Progress* |
+| Грокаем алгоритмы | Адитья Бхаргава | **Completed** |
 
 ## Machine Learning
 ### Fundamentals

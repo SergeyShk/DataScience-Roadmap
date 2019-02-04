@@ -56,6 +56,7 @@ My roadmap for study Data Science
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | To Do |
+| [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | To Do |
 | [The School of AI](https://www.theschool.ai/courses/move-37-course/) | Move 37 Course | To Do |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
 #### Books

@@ -26,6 +26,7 @@ My roadmap for study Data Science
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/217) | Алгоритмы: теория и практика. Методы | *In Progress* |
+| [Stepik](https://stepik.org/course/1547) | Алгоритмы: теория и практика. Структуры данных | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | *In Progress* |
 #### Books
 | Title | Author | Status |
@@ -55,7 +56,8 @@ My roadmap for study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | To Do |
+| [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | *In Progress* |
+| [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | To Do |
 | [The School of AI](https://www.theschool.ai/courses/move-37-course/) | Move 37 Course | To Do |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
 #### Books
@@ -67,6 +69,10 @@ My roadmap for study Data Science
 
 ## Data Engineering
 ### SQL
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
+
 ### Big Data
 #### Courses
 | URL | Title | Status |

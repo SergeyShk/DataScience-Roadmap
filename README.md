@@ -25,9 +25,9 @@ My roadmap for study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Stepik](https://stepik.org/course/217) | Алгоритмы: теория и практика. Методы | *In Progress* |
+| [Stepik](https://stepik.org/course/217) | Алгоритмы: теория и практика. Методы | **Completed** |
 | [Stepik](https://stepik.org/course/1547) | Алгоритмы: теория и практика. Структуры данных | To Do |
-| [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | *In Progress* |
+| [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | **Completed** |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |

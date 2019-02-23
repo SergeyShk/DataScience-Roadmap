@@ -26,7 +26,7 @@ My roadmap for study Data Science
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/217) | Алгоритмы: теория и практика. Методы | **Completed** |
-| [Stepik](https://stepik.org/course/1547) | Алгоритмы: теория и практика. Структуры данных | To Do |
+| [Stepik](https://stepik.org/course/1547) | Алгоритмы: теория и практика. Структуры данных | *In Progress* |
 | [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | **Completed** |
 #### Books
 | Title | Author | Status |
@@ -39,7 +39,7 @@ My roadmap for study Data Science
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | To Do |
+| [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | *In Progress* |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | **Completed** |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
@@ -57,14 +57,14 @@ My roadmap for study Data Science
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | *In Progress* |
-| [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | To Do |
+| [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | *In Progress* |
 | [The School of AI](https://www.theschool.ai/courses/move-37-course/) | Move 37 Course | To Do |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Глубокое обучение на Python | Франсуа Шолле | To Do |
-| Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | To Do |
+| Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | *In Progress* |
 ### Reinforcement Learning
 
 ## Data Engineering

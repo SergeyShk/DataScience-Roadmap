@@ -64,7 +64,7 @@ My roadmap for study Data Science
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Глубокое обучение на Python | Франсуа Шолле | To Do |
-| Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | *In Progress* |
+| Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | **Completed** |
 ### Reinforcement Learning
 
 ## Data Engineering

@@ -32,6 +32,7 @@ My roadmap for study Data Science
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Грокаем алгоритмы | Адитья Бхаргава | **Completed** |
+| Совершенный алгоритм. Основы | Тим Рафгарден | To Do |
 
 ## Machine Learning
 ### Fundamentals

@@ -21,6 +21,7 @@ My roadmap for study Data Science
 | Учим Python, делая крутые игры | Эл Свейгарт | **Completed** |
 
 ### R
+### Scala
 ### Algorithms & Data Structures
 #### Courses
 | URL | Title | Status |
@@ -66,13 +67,23 @@ My roadmap for study Data Science
 | --- | :---: | :---: |
 | Глубокое обучение на Python | Франсуа Шолле | To Do |
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | **Completed** |
+
+### Natural Language Processing
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | To Do |
+### Computer Vision
 ### Reinforcement Learning
 
 ## Data Engineering
 ### SQL
+#### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | To Do |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
+| [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
 
 ### Big Data
 #### Courses
@@ -80,11 +91,13 @@ My roadmap for study Data Science
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
-| [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
 | [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
+| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | *In Progress* |
+| [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
 
 ## Mathematics
-### Linear Algebra & Discrete mathematics 
+### Linear Algebra & Discrete mathematics
+#### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/91/) | Ликбез по дискретной математике | *In Progress* |

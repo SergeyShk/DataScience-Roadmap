@@ -92,7 +92,7 @@ My roadmap for study Data Science
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
 | [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
-| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | *In Progress* |
+| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | **Completed** |
 | [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
 
 ## Mathematics

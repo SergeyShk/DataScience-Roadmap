@@ -59,7 +59,7 @@ My roadmap for study Data Science
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | **Completed** |
-| [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | *In Progress* |
+| [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | **Completed** |
 | [The School of AI](https://www.theschool.ai/courses/move-37-course/) | Move 37 Course | To Do |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
 #### Books
@@ -86,6 +86,10 @@ My roadmap for study Data Science
 | [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
 
 ### Big Data
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | *In Progress* |
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
@@ -94,6 +98,12 @@ My roadmap for study Data Science
 | [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
 | [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | **Completed** |
 | [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
+
+### Virtualization
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Использование Docker | Э. Моуэт | *In Progress* |
 
 ## Mathematics
 ### Linear Algebra & Discrete mathematics

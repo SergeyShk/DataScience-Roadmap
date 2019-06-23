@@ -81,7 +81,8 @@ My roadmap for study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | To Do |
+| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **Completed** |
+| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Server Fundamentals | To Do |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
 | [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
 

@@ -4,7 +4,7 @@
 <img src="https://cdn-images-1.medium.com/max/1200/1*E1haIGB9K4K89PsFZgm-pw.jpeg" width="600">
 </p>
 
-My roadmap for study Data Science
+My roadmap to study Data Science
 
 ## Programming
 ### Python
@@ -82,7 +82,7 @@ My roadmap for study Data Science
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **Completed** |
-| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Server Fundamentals | To Do |
+| [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | **Completed** |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
 | [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
 
@@ -97,6 +97,7 @@ My roadmap for study Data Science
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
 | [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
+| [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning | To Do |
 | [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | **Completed** |
 | [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
 
@@ -117,6 +118,7 @@ My roadmap for study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python | *In Progress* |
 | [Stepik](https://stepik.org/course/76/) | Основы статистики | **Completed** |
 | [Stepik](https://stepik.org/course/524/) | Основы статистики. Часть 2 | To Do |
 | [Stepik](https://stepik.org/course/2152/) | Основы статистики. Часть 3 | To Do |

@@ -130,3 +130,9 @@ My roadmap to study Data Science
 | Как лгать при помощи статистики | Дарелл Хафф | **Completed** |
 
 ### Calculus
+
+## Soft Skills
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [ЭргоСоло](https://solocorporate.com/study/rus) | СОЛО на клавиатуре (русский язык) | **Completed** |

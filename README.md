@@ -72,7 +72,7 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | To Do |
+| [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | *In Progress* |
 ### Computer Vision
 ### Reinforcement Learning
 

@@ -11,3 +11,4 @@ My visited IT-events
 | PyData Moscow #8 | 22.06.2019 |
 | PyCon 2019 | 24.06.2019 - 25.06.2019 |
 | Moscow Spark #8 | 15.08.2019 |
+| TechTrain 2019 | 24.08.2019 - 25.08.2019 |

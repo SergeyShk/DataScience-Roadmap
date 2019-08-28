@@ -22,6 +22,11 @@ My roadmap to study Data Science
 
 ### R
 ### Scala
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Scala для нетерпеливых | Кей Хорстманн | *In Progress* |
+
 ### Algorithms & Data Structures
 #### Courses
 | URL | Title | Status |

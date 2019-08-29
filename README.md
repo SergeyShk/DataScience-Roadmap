@@ -25,6 +25,7 @@ My roadmap to study Data Science
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| Scala. Профессиональное программирование | Билл Веннерс, Мартин Одерски, Лекс Спун | To Do |
 | Scala для нетерпеливых | Кей Хорстманн | *In Progress* |
 
 ### Algorithms & Data Structures
@@ -77,7 +78,7 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | *In Progress* |
+| [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | **Completed** |
 ### Computer Vision
 ### Reinforcement Learning
 

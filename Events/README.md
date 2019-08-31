@@ -12,3 +12,4 @@ My visited IT-events
 | PyCon 2019 | 24.06.2019 - 25.06.2019 |
 | Moscow Spark #8 | 15.08.2019 |
 | TechTrain 2019 | 24.08.2019 - 25.08.2019 |
+| Moscow Data Science Major August 2019 | 31.08.2019 |

@@ -128,7 +128,7 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python | *In Progress* |
+| [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python | **Completed** |
 | [Stepik](https://stepik.org/course/76/) | Основы статистики | **Completed** |
 | [Stepik](https://stepik.org/course/524/) | Основы статистики. Часть 2 | To Do |
 | [Stepik](https://stepik.org/course/2152/) | Основы статистики. Часть 3 | To Do |

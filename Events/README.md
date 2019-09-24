@@ -13,3 +13,4 @@ My visited IT-events
 | Moscow Spark #8 | 15.08.2019 |
 | TechTrain 2019 | 24.08.2019 - 25.08.2019 |
 | Moscow Data Science Major August 2019 | 31.08.2019 |
+| UseData Conf 2019 | 16.09.2019 |

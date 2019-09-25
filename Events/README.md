@@ -14,3 +14,4 @@ My visited IT-events
 | TechTrain 2019 | 24.08.2019 - 25.08.2019 |
 | Moscow Data Science Major August 2019 | 31.08.2019 |
 | UseData Conf 2019 | 16.09.2019 |
+| Sberbank HugeData Platform. Конференция разработчиков | 23.09.2019 |

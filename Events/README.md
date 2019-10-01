@@ -15,3 +15,4 @@ My visited IT-events
 | Moscow Data Science Major August 2019 | 31.08.2019 |
 | UseData Conf 2019 | 16.09.2019 |
 | Sberbank HugeData Platform. Конференция разработчиков | 23.09.2019 |
+| DevOps Conf 2019 | 30.09.2019 - 01.10.2019 |

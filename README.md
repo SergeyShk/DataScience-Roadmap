@@ -82,6 +82,7 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Stepik](https://stepik.org/course/54098) | Нейронные сети и обработка текста | *In Progress* |
 | [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | **Completed** |
 ### Computer Vision
 ### Reinforcement Learning
@@ -104,6 +105,7 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| NewProLab | Apache Spark для задач анализа данных | **Completed** |
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
 | [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |

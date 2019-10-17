@@ -147,5 +147,6 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [ЭргоСоло](https://solocorporate.com/study/rus) | СОЛО на клавиатуре (русский язык) | **Completed** |
 | [ЭргоСоло](https://solocorporate.com/study/eng) | СОЛО на клавиатуре (английский язык) | **Completed** |
+| [ЭргоСоло](https://solo.nabiraem.ru/study/spa) | СОЛО на клавиатуре (испанский язык) | **Completed** |
+| [ЭргоСоло](https://solocorporate.com/study/rus) | СОЛО на клавиатуре (русский язык) | **Completed** |

@@ -17,3 +17,4 @@ My visited IT-events
 | Sberbank HugeData Platform. Конференция разработчиков | 23.09.2019 |
 | DevOps Conf 2019 | 30.09.2019 - 01.10.2019 |
 | HighLoad++ 2019 | 07.11.2019 - 08.11.2019 |
+| AI Journey 2019 | 08.11.2019 - 09.11.2019 |

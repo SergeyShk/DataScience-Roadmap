@@ -79,6 +79,10 @@ My roadmap to study Data Science
 | Грокаем глубокое обучение | Эндрю Траск | *In Progress* |
 
 ### Natural Language Processing
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | *In Progress* |
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |

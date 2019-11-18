@@ -122,7 +122,7 @@ My roadmap to study Data Science
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Использование Docker | Э. Моуэт | *In Progress* |
+| Использование Docker | Эдриен Моуэт | *In Progress* |
 
 ## Mathematics
 ### Linear Algebra & Discrete mathematics

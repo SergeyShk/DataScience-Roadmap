@@ -19,3 +19,4 @@ My visited IT-events
 | HighLoad++ 2019 | 07.11.2019 - 08.11.2019 |
 | AI Journey 2019 | 08.11.2019 - 09.11.2019 |
 | ETL Meetup #1 2019 | 21.11.2019 |
+| ScalaConf 2019 | 26.11.2019 |

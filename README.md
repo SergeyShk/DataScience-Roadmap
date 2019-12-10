@@ -53,6 +53,7 @@ My roadmap to study Data Science
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | **Completed** |
+| [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | *In Progress* |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | **Completed** |
@@ -71,6 +72,7 @@ My roadmap to study Data Science
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | **Completed** |
 | [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | **Completed** |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
+| [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch | *In Progress* |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -82,6 +84,7 @@ My roadmap to study Data Science
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | *In Progress* |
 | Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | *In Progress* |
 #### Courses
 | URL | Title | Status |

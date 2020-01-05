@@ -78,20 +78,20 @@ My roadmap to study Data Science
 | --- | :---: | :---: |
 | Глубокое обучение на Python | Франсуа Шолле | To Do |
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | **Completed** |
-| Грокаем глубокое обучение | Эндрю Траск | *In Progress* |
+| Грокаем глубокое обучение | Эндрю Траск | **Completed** |
 
 ### Natural Language Processing
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
-| Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | *In Progress* |
-| Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | *In Progress* |
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing | **Completed** |
 | [Stepik](https://stepik.org/course/54098) | Нейронные сети и обработка текста | **Completed** |
 | [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | **Completed** |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | *In Progress* |
+| Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | *In Progress* |
 ### Computer Vision
 ### Reinforcement Learning
 
@@ -106,10 +106,6 @@ My roadmap to study Data Science
 | [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
 
 ### Big Data
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
-| Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | *In Progress* |
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
@@ -120,6 +116,10 @@ My roadmap to study Data Science
 | [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning | To Do |
 | [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | **Completed** |
 | [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | *In Progress* |
 
 ### Virtualization
 #### Books

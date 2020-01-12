@@ -25,7 +25,7 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | *In Progress* |
+| [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | To Do |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -53,7 +53,7 @@ My roadmap to study Data Science
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | **Completed** |
-| [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | *In Progress* |
+| [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | **Completed** |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | **Completed** |
@@ -109,6 +109,8 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python
+ | *In Progress* |
 | NewProLab | Apache Spark для задач анализа данных | **Completed** |
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |

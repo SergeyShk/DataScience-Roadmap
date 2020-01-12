@@ -109,8 +109,7 @@ My roadmap to study Data Science
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python
- | *In Progress* |
+| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | *In Progress* |
 | NewProLab | Apache Spark для задач анализа данных | **Completed** |
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |

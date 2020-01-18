@@ -1,10 +1,10 @@
-# DataScience Roadmap
+# Data Science Roadmap
 
 <p align="center"> 
 <img src="https://cdn-images-1.medium.com/max/1200/1*E1haIGB9K4K89PsFZgm-pw.jpeg" width="600">
 </p>
 
-My roadmap to study Data Science
+My roadmap to study Data Science.
 
 ## Programming
 ### Python
@@ -76,6 +76,8 @@ My roadmap to study Data Science
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| Глубокое обучение без математики. Том 1. Основы | Эндрю Гласснер | To Do |
+| Глубокое обучение без математики. Том 2. Практика | Эндрю Гласснер | To Do |
 | Глубокое обучение на Python | Франсуа Шолле | To Do |
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | **Completed** |
 | Грокаем глубокое обучение | Эндрю Траск | **Completed** |

@@ -18,6 +18,7 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
+| Python. К вершинам мастерства | Лучано Рамальо | To Do |
 | Учим Python, делая крутые игры | Эл Свейгарт | **Completed** |
 
 ### R

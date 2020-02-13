@@ -77,6 +77,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | **Completed** |
+| NewProLab | Deep Learning | *In Progress* |
 | [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | **Completed** |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
 | [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch | *In Progress* |

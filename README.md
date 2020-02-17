@@ -143,6 +143,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | *In Progress* |
 | [Stepik](https://stepik.org/course/91/) | Ликбез по дискретной математике | *In Progress* |
 
 ### Statistics & Probability theory

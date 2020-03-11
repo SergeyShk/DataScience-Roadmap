@@ -143,7 +143,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | *In Progress* |
+| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | **Completed** |
 | [Stepik](https://stepik.org/course/91/) | Ликбез по дискретной математике | *In Progress* |
 
 ### Statistics & Probability theory
@@ -162,6 +162,10 @@ My roadmap to study Data Science.
 | Как лгать при помощи статистики | Дарелл Хафф | **Completed** |
 
 ### Calculus
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning) | Calculus and Optimization for Machine Learning | *In Progress* |
 
 ## Soft Skills
 #### Courses

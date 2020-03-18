@@ -61,7 +61,7 @@ My roadmap to study Data Science.
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | **Completed** |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | **Completed** |
-| [Stepik](https://stepik.org/course/4852) | Введение в Data Science и машинное обучение | *In Progress* |
+| [Stepik](https://stepik.org/course/4852) | Введение в Data Science и машинное обучение | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | **Completed** |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python | To Do |

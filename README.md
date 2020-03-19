@@ -32,6 +32,9 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | To Do |
+| [Stepik](https://stepik.org/course/16243) | Введение в Scala | *In Progress* |
+| Интерфейс | Язык программирования SCALA | **Completed** |
+
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |

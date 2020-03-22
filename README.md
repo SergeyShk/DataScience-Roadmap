@@ -45,6 +45,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [GeekBrains](https://geekbrains.ru/courses/513) | Алгоритмы и структуры данных на Python. Интерактивный курс | *In Progress* |
 | [Stepik](https://stepik.org/course/217) | Алгоритмы: теория и практика. Методы | **Completed** |
 | [Stepik](https://stepik.org/course/1547) | Алгоритмы: теория и практика. Структуры данных | *In Progress* |
 | [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | **Completed** |

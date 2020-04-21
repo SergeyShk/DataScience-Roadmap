@@ -45,7 +45,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [GeekBrains](https://geekbrains.ru/courses/513) | Алгоритмы и структуры данных на Python. Интерактивный курс | *In Progress* |
+| [GeekBrains](https://geekbrains.ru/courses/513) | Алгоритмы и структуры данных на Python. Интерактивный курс | **Completed** |
 | [Stepik](https://stepik.org/course/217) | Алгоритмы: теория и практика. Методы | **Completed** |
 | [Stepik](https://stepik.org/course/1547) | Алгоритмы: теория и практика. Структуры данных | *In Progress* |
 | [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! | **Completed** |
@@ -123,12 +123,12 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | *In Progress* |
+| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | **Completed** |
 | NewProLab | Apache Spark для задач анализа данных | **Completed** |
 | [Stepik](https://stepik.org/course/150/) | Hadoop. Система для обработки больших объемов данных | **Completed** |
 | [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce | To Do |
 | [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data! | To Do |
-| [Udemy](https://www.udemy.com/cart/success/294215128/) | Elasticsearch 7 and the Elastic Stack - In Depth & Hands On! | *In Progress* |
+| [Udemy](https://www.udemy.com/cart/success/294215128/) | Elasticsearch 7 and the Elastic Stack - In Depth & Hands On! | **Completed** |
 | [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning | To Do |
 | [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark | **Completed** |
 | [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data! | To Do |

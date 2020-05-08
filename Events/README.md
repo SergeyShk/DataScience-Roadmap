@@ -24,3 +24,4 @@ My visited IT-events
 | Data Ёлка 2019 | 21.12.2019 |
 | NeurIPS New Year Afterparty | 15.01.2020 |
 | LeanDS3: Качество в DS проектах | 14.02.2020 |
+| ICASSP 2020 | 04.05.2020 - 08.05.2020 |

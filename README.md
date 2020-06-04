@@ -34,7 +34,6 @@ My roadmap to study Data Science.
 | [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | To Do |
 | [Stepik](https://stepik.org/course/16243) | Введение в Scala | **Completed** |
 | Интерфейс | Язык программирования SCALA | **Completed** |
-
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -173,6 +172,19 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning) | Calculus and Optimization for Machine Learning | *In Progress* |
+
+# Visualization
+### D3
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Udemy](https://www.udemy.com/course/d3jsbasics/) | D3.js Data Visualization Fundamentals - Hands On | *In Progress* |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| D3 for the Impatient | Philipp K. Janert | *In Progress* |
+
+### Tableau
 
 ## Soft Skills
 #### Courses

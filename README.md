@@ -98,6 +98,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing | **Completed** |
+| [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Специализация Natural Language Processing | *In Progress* |
 | [Stepik](https://stepik.org/course/54098) | Нейронные сети и обработка текста | **Completed** |
 | [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | **Completed** |
 #### Books

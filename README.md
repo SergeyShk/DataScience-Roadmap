@@ -106,7 +106,7 @@ My roadmap to study Data Science.
 | --- | :---: | :---: |
 | Natural Language Processing in Action | Hobson Lane, Cole Howard, Hannes Hapke | *In Progress* |
 | Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | *In Progress* |
-| Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | *In Progress* |
+| Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | **Completed** |
 ### Computer Vision
 ### Reinforcement Learning
 
@@ -179,13 +179,17 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Udemy](https://www.udemy.com/course/d3jsbasics/) | D3.js Data Visualization Fundamentals - Hands On | *In Progress* |
+| [Udemy](https://www.udemy.com/course/d3jsbasics/) | D3.js Data Visualization Fundamentals - Hands On | **Completed** |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
 | D3 for the Impatient | Philipp K. Janert | *In Progress* |
 
 ### Tableau
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/specializations/data-visualization) | Специализация Data Visualization with Tableau | *In Progress* |
 
 ## Soft Skills
 #### Courses

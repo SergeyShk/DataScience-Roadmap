@@ -32,3 +32,4 @@ My visited IT-events
 | DE or DIE #3 | 16.07.2020 |
 | Data Fest²⁰²⁰ | 19.09.2020 - 20.09.2020 |
 | AI-MEN 2020 | 26.09.2020 |
+| Moscow Spark #10 | 01.10.2020 |

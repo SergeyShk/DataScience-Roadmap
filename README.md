@@ -92,6 +92,7 @@ My roadmap to study Data Science.
 | Глубокое обучение на Python | Франсуа Шолле | To Do |
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | **Completed** |
 | Грокаем глубокое обучение | Эндрю Траск | **Completed** |
+| Программируем с PyTorch | Ян Пойнтер | To Do |
 
 ### Natural Language Processing
 #### Courses
@@ -115,6 +116,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | **Completed** |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |

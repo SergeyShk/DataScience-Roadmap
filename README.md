@@ -99,7 +99,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Специализация Natural Language Processing | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Специализация Natural Language Processing | **Completed** |
 | [Stepik](https://stepik.org/course/54098) | Нейронные сети и обработка текста | **Completed** |
 | [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | **Completed** |
 #### Books
@@ -116,7 +116,8 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science | To Do |
+| [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Специализация Learn SQL Basics for Data Science | To Do |
+| [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Специализация Modern Big Data Analysis with SQL | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | **Completed** |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
@@ -197,6 +198,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | To Do |
 | [ЭргоСоло](https://solocorporate.com/study/eng) | СОЛО на клавиатуре (английский язык) | **Completed** |
 | [ЭргоСоло](https://solo.nabiraem.ru/study/spa) | СОЛО на клавиатуре (испанский язык) | **Completed** |
 | [ЭргоСоло](https://solocorporate.com/study/rus) | СОЛО на клавиатуре (русский язык) | **Completed** |

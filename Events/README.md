@@ -34,3 +34,4 @@ My visited IT-events
 | AI-MEN 2020 | 26.09.2020 |
 | Moscow Spark #10 | 01.10.2020 |
 | DataStart Autumn 2020 | 20.10.2020 |
+| Data Halloween 2020 | 31.10.2020 |

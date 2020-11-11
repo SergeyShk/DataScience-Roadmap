@@ -68,6 +68,7 @@ My roadmap to study Data Science.
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | **Completed** |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python | To Do |
+| Корпоративный университет Сбербанка | Методы анализа данных и машинного обучения | **Completed** |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -199,6 +200,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | To Do |
+| Корпоративный университет Сбербанка | Канбан: базовый онлайн курс для участников команд | **Completed** |
 | [ЭргоСоло](https://solocorporate.com/study/eng) | СОЛО на клавиатуре (английский язык) | **Completed** |
 | [ЭргоСоло](https://solo.nabiraem.ru/study/spa) | СОЛО на клавиатуре (испанский язык) | **Completed** |
 | [ЭргоСоло](https://solocorporate.com/study/rus) | СОЛО на клавиатуре (русский язык) | **Completed** |

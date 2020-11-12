@@ -200,6 +200,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | To Do |
+| [Coursera](https://www.coursera.org/specializations/learn-spanish) | Learn Spanish: Basic Spanish Vocabulary Specialization | **Completed** |
 | Корпоративный университет Сбербанка | Канбан: базовый онлайн курс для участников команд | **Completed** |
 | [ЭргоСоло](https://solocorporate.com/study/eng) | СОЛО на клавиатуре (английский язык) | **Completed** |
 | [ЭргоСоло](https://solo.nabiraem.ru/study/spa) | СОЛО на клавиатуре (испанский язык) | **Completed** |

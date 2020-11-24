@@ -18,7 +18,7 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Python. К вершинам мастерства | Лучано Рамальо | To Do |
+| Python. К вершинам мастерства | Лучано Рамальо | *In Progress* |
 | Учим Python, делая крутые игры | Эл Свейгарт | **Completed** |
 
 ### R
@@ -93,7 +93,7 @@ My roadmap to study Data Science.
 | Глубокое обучение на Python | Франсуа Шолле | To Do |
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | **Completed** |
 | Грокаем глубокое обучение | Эндрю Траск | **Completed** |
-| Программируем с PyTorch | Ян Пойнтер | To Do |
+| Программируем с PyTorch: создание приложений глубокого обучения | Ян Пойнтер | **Completed** |
 
 ### Natural Language Processing
 #### Courses

@@ -35,3 +35,4 @@ My visited IT-events
 | Moscow Spark #10 | 01.10.2020 |
 | DataStart Autumn 2020 | 20.10.2020 |
 | Data Halloween 2020 | 31.10.2020 |
+| AI Journey 2020 | 03.12.2020 - 05.12.2020 |

@@ -36,3 +36,4 @@ My visited IT-events
 | DataStart Autumn 2020 | 20.10.2020 |
 | Data Halloween 2020 | 31.10.2020 |
 | AI Journey 2020 | 03.12.2020 - 05.12.2020 |
+| YaTalks 2020 | 05.12.2020 |

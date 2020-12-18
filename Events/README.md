@@ -37,3 +37,4 @@ My visited IT-events
 | Data Halloween 2020 | 31.10.2020 |
 | AI Journey 2020 | 03.12.2020 - 05.12.2020 |
 | YaTalks 2020 | 05.12.2020 |
+| LeanDS12: Архитектура AI продуктов | 17.12.2020 |

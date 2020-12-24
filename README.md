@@ -144,6 +144,10 @@ My roadmap to study Data Science.
 | Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | *In Progress* |
 
 ### Virtualization
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | Introduction to Containers: Docker, Kubernetes & OpenShift| **Completed** |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -199,6 +203,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/specializations/intermediate-grammar) | Learn English: Intermediate Grammar Specialization | *In Progress* |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/learn-spanish) | Learn Spanish: Basic Spanish Vocabulary Specialization | **Completed** |
 | Корпоративный университет Сбербанка | Канбан: базовый онлайн курс для участников команд | **Completed** |

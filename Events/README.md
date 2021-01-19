@@ -39,3 +39,4 @@ My visited IT-events
 | YaTalks 2020 | 05.12.2020 |
 | LeanDS12: Архитектура AI продуктов | 17.12.2020 |
 | Data Ёлка 2020 | 19.12.2020 |
+| NeurIPS New Year Afterparty | 19.01.2021 |

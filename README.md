@@ -80,7 +80,8 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning | **Completed** |
+| [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | **Completed** |
+| [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | *In Progress* |
 | NewProLab | Deep Learning | **Completed** |
 | [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | **Completed** |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
@@ -100,7 +101,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Специализация Natural Language Processing | **Completed** |
+| [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Natural Language Processing Specialization | **Completed** |
 | [Stepik](https://stepik.org/course/54098) | Нейронные сети и обработка текста | **Completed** |
 | [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | **Completed** |
 #### Books
@@ -109,7 +110,12 @@ My roadmap to study Data Science.
 | Natural Language Processing in Action | Hobson Lane, Cole Howard, Hannes Hapke | *In Progress* |
 | Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | *In Progress* |
 | Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | **Completed** |
+
 ### Computer Vision
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Generative Adversarial Networks (GANs) Specialization | **Completed** |
 ### Reinforcement Learning
 
 ## Data Engineering
@@ -117,8 +123,8 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Специализация Learn SQL Basics for Data Science | To Do |
-| [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Специализация Modern Big Data Analysis with SQL | To Do |
+| [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
+| [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | **Completed** |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
@@ -197,13 +203,13 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/data-visualization) | Специализация Data Visualization with Tableau | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/data-visualization) | Data Visualization with Tableau Specialization | *In Progress* |
 
 ## Soft Skills
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/intermediate-grammar) | Learn English: Intermediate Grammar Specialization | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/intermediate-grammar) | Learn English: Intermediate Grammar Specialization | **Completed** |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/learn-spanish) | Learn Spanish: Basic Spanish Vocabulary Specialization | **Completed** |
 | Корпоративный университет Сбербанка | Канбан: базовый онлайн курс для участников команд | **Completed** |

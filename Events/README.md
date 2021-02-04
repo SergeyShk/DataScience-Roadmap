@@ -40,3 +40,4 @@ My visited IT-events
 | LeanDS12: Архитектура AI продуктов | 17.12.2020 |
 | Data Ёлка 2020 | 19.12.2020 |
 | NeurIPS New Year Afterparty | 19.01.2021 |
+| LeanDS13: Lean Data Science | 03.02.2021 |

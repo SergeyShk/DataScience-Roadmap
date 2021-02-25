@@ -81,7 +81,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | **Completed** |
-| [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | *In Progress* |
+| [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) | IBM AI Engineering Professional Certificate | **Completed** |
 | NewProLab | Deep Learning | **Completed** |
 | [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | **Completed** |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | **Completed** |
@@ -203,12 +203,13 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/data-visualization) | Data Visualization with Tableau Specialization | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/data-visualization) | Data Visualization with Tableau Specialization | **Completed** |
 
 ## Soft Skills
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone | *In Progress* |
 | [Coursera](https://www.coursera.org/specializations/intermediate-grammar) | Learn English: Intermediate Grammar Specialization | **Completed** |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/learn-spanish) | Learn Spanish: Basic Spanish Vocabulary Specialization | **Completed** |

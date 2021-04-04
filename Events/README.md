@@ -42,3 +42,5 @@ My visited IT-events
 | NeurIPS New Year Afterparty | 19.01.2021 |
 | LeanDS13: Lean Data Science | 03.02.2021 |
 | LeanDS14: Монетизация данных и идеальный дэшборд | 24.02.2021 |
+| PyCon Weekend 2021 | 19.03.2021 - 20.03.2021 |
+| LeanDS15: Разбираемся с А/Б тестами и валидацией гипотез в проде | 31.03.2021 |

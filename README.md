@@ -18,7 +18,7 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Python. К вершинам мастерства | Лучано Рамальо | *In Progress* |
+| Python. К вершинам мастерства | Лучано Рамальо | **Completed** |
 | Учим Python, делая крутые игры | Эл Свейгарт | **Completed** |
 
 ### R
@@ -52,6 +52,7 @@ My roadmap to study Data Science.
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Грокаем алгоритмы | Адитья Бхаргава | **Completed** |
+| Карьера программиста | Гэйл Лакман Макдауэлл | *In Progress* |
 | Совершенный алгоритм. Основы | Тим Рафгарден | To Do |
 
 ## Machine Learning
@@ -124,6 +125,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
 | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **Completed** |

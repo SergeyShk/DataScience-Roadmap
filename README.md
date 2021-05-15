@@ -18,7 +18,7 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Django 3 By Example | Antonio Melé | *In Progress* |
+| Django 3 By Example | Antonio Melé | **Completed** |
 | Python. К вершинам мастерства | Лучано Рамальо | **Completed** |
 | Учим Python, делая крутые игры | Эл Свейгарт | **Completed** |
 

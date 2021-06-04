@@ -53,7 +53,7 @@ My roadmap to study Data Science.
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Грокаем алгоритмы | Адитья Бхаргава | **Completed** |
-| Карьера программиста | Гэйл Лакман Макдауэлл | *In Progress* |
+| Карьера программиста | Гэйл Лакман Макдауэлл | **Completed** |
 | Совершенный алгоритм. Основы | Тим Рафгарден | To Do |
 
 ## Machine Learning

@@ -62,6 +62,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
+| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | *In Progress* |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | **Completed** |

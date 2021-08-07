@@ -215,7 +215,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/advanced-grammar-punctuation) | Learn English: Advanced Grammar and Punctuation Specialization | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/advanced-grammar-punctuation) | Learn English: Advanced Grammar and Punctuation Specialization | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/intermediate-grammar) | Learn English: Intermediate Grammar Specialization | **Completed** |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/learn-spanish) | Learn Spanish: Basic Spanish Vocabulary Specialization | **Completed** |

@@ -112,6 +112,7 @@ My roadmap to study Data Science.
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Natural Language Processing in Action | Hobson Lane, Cole Howard, Hannes Hapke | *In Progress* |
+| Natural Language Processing with Transformers | Lewis Tunstall, Leandro von Werra, Thomas Wolf | *In Progress* |
 | Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | *In Progress* |
 | Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | **Completed** |
 

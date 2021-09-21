@@ -155,6 +155,14 @@ My roadmap to study Data Science.
 | Learning Elastic Stack 7.0 | Pranav Shukla, Sharath Kumar M N | *In Progress* |
 | Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | *In Progress* |
 
+### Cloud
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | To Do |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | To Do |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | To Do |
+
 ### Virtualization
 #### Courses
 | URL | Title | Status |

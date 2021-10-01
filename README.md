@@ -62,7 +62,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | **Completed** |
@@ -131,8 +131,12 @@ My roadmap to study Data Science.
 | [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
 | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
+| [DataCamp](https://www.datacamp.com/career-tracks/data-analyst-with-sql-server) | Data Analyst with SQL Server | **Completed** |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-business-analysts) | SQL for Business Analysts | **Completed** |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-for-database-administrators) | SQL for Database Administrators | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | **Completed** |
+| [DataCamp](https://www.datacamp.com/skill-tracks/sql-server-for-database-administrators) | SQL Server for Database Administrators | **Completed** |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | To Do |
 | [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp | To Do |
 
@@ -162,6 +166,7 @@ My roadmap to study Data Science.
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | To Do |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | To Do |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | To Do |
+| [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | *In Progress* |
 
 ### Virtualization
 #### Courses

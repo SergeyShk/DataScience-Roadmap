@@ -26,7 +26,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/r-programmer) | R Programmer | To Do |
+| [DataCamp](https://www.datacamp.com/tracks/r-programmer) | R Programmer | **Completed** |
 
 ### Scala
 #### Courses
@@ -112,7 +112,7 @@ My roadmap to study Data Science.
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Natural Language Processing in Action | Hobson Lane, Cole Howard, Hannes Hapke | *In Progress* |
-| Natural Language Processing with Transformers | Lewis Tunstall, Leandro von Werra, Thomas Wolf | *In Progress* |
+| Natural Language Processing with Transformers | Lewis Tunstall, Leandro von Werra, Thomas Wolf | **Completed** |
 | Text Analytics with Python: A Practitioner's Guide to Natural Language Processing | Dipanjan Sarkar | *In Progress* |
 | Знакомство с PyTorch: глубокое обучение при обработке естественного языка | Брайан Макмахан, Делип Рао | **Completed** |
 
@@ -166,7 +166,8 @@ My roadmap to study Data Science.
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | To Do |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | To Do |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | To Do |
-| [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | **Completed** |
+| [Coursera](https://www.coursera.org/specializations/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | *In Progress* |
 
 ### Virtualization
 #### Courses

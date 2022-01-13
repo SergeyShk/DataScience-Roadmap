@@ -62,7 +62,6 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python | **Completed** |
@@ -98,6 +97,16 @@ My roadmap to study Data Science.
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | **Completed** |
 | Грокаем глубокое обучение | Эндрю Траск | **Completed** |
 | Программируем с PyTorch: создание приложений глубокого обучения | Ян Пойнтер | **Completed** |
+
+### MLOps
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | **Completed** |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Introducing MLOps | Mark Treveil | *In Progress* |
 
 ### Natural Language Processing
 #### Courses
@@ -167,7 +176,7 @@ My roadmap to study Data Science.
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | To Do |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | To Do |
 | [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | **Completed** |
 
 ### Virtualization
 #### Courses

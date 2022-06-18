@@ -106,7 +106,7 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Introducing MLOps | Mark Treveil | *In Progress* |
+| Introducing MLOps | Mark Treveil | **Completed** |
 
 ### Natural Language Processing
 #### Courses
@@ -173,8 +173,8 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-architecture) | GCP Architecture | To Do |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | To Do |
-| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | To Do |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-data-ml) | GCP Data & Machine Learning | **Completed** |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/gcp-development) | GCP Development | *In Progress* |
 | [Coursera](https://www.coursera.org/specializations/cloud-engineering-gcp) | Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | **Completed** |
 

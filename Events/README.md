@@ -51,3 +51,4 @@ My visited IT-events
 | OpenTalks.AI 2022 | 17.02.2022 - 18.02.2022 |
 | LeanDS: Документация в DS-проектах | 22.02.2022 |
 | AI Journey 2022 | 23.11.2022 - 24.11.2022 |
+| DataStart Autumn 2022 | 29.11.2022 |

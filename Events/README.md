@@ -53,3 +53,4 @@ My visited IT-events
 | AI Journey 2022 | 23.11.2022 - 24.11.2022 |
 | DataStart Autumn 2022 | 29.11.2022 |
 | YaTalks 2022 | 03.12.2022 - 04.12.2022 |
+| Data Ёлка 2022 | 17.12.2022 |

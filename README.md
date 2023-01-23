@@ -183,6 +183,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [ACloudGuru](https://learn.acloud.guru/learning-path/cloud-adjacent-devops) | DevOps | **Completed** |
 | [Coursera](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | Introduction to Containers: Docker, Kubernetes & OpenShift| **Completed** |
 #### Books
 | Title | Author | Status |

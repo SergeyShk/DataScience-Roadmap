@@ -196,14 +196,14 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | **Completed** |
-| [Coursera](https://www.coursera.org/learn/machine-learning-linear-algebra) | Linear Algebra for Machine Learning and Data Science | *In Progress* |
+| [Coursera](https://www.coursera.org/learn/machine-learning-linear-algebra) | Linear Algebra for Machine Learning and Data Science | **Completed** |
 | [Stepik](https://stepik.org/course/91/) | Ликбез по дискретной математике | *In Progress* |
 
 ### Statistics & Probability theory
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/machine-learning-probability-and-statistics) | Probability & Statistics for Machine Learning & Data Science | To Do |
+| [Coursera](https://www.coursera.org/learn/machine-learning-probability-and-statistics) | Probability & Statistics for Machine Learning & Data Science | **Completed** |
 | [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python | **Completed** |
 | [Stepik](https://stepik.org/course/76/) | Основы статистики | **Completed** |
 | [Stepik](https://stepik.org/course/524/) | Основы статистики. Часть 2 | To Do |
@@ -220,7 +220,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning) | Calculus and Optimization for Machine Learning | *In Progress* |
-| [Coursera](https://www.coursera.org/learn/machine-learning-calculus) | Calculus for Machine Learning and Data Science | To Do |
+| [Coursera](https://www.coursera.org/learn/machine-learning-calculus) | Calculus for Machine Learning and Data Science | **Completed** |
 
 # Visualization
 ### D3
